@@ -1,0 +1,19 @@
+.odd {
+    background-color:hsl(345, 90%, 85%);
+    font-family: Veranda, "DejaVu Sans", sans-serif;
+}
+
+.big {
+    font-size: 24px;
+}
+
+#line-2 {
+    font-size: 36px;
+    color:rgb(15, 15, 189);
+}
+
+#line-4 {
+    background-color: rgb(133, 226, 133);
+    font-size: 24px;
+    font-weight: bold;
+}
